@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-social-icons": "^6.15.0",
+    "tw-elements-react": "^1.0.0-alpha2"
+  }
+}
